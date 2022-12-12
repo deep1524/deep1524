@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋👏नमस्ते, I'm Deepkamal yadav</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">Analytical and detail-oriented aspiring Full Stack Web Developer. Capable of writing production-ready code using MERN stack. Passionate about coding and intensely interested in working in a product-based company.</h3>
 <img width="100%"  src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="" />
 
 # 💫 About Me:
